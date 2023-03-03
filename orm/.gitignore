@@ -1,0 +1,6 @@
+#virtual environments
+.venv
+
+#code editor
+.idea
+.vscode
