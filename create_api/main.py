@@ -3,7 +3,9 @@ from fastapi import FastAPI
 app = FastAPI()
 
 # "/docs" => para consultar las peticiones http http://127.0.0.1:8000/docs
-"""el uvicorn ayuda a crear el servidor local asi como node, en este caso es el de arriba 
+"""el uvicorn seria como el nodemon, para que la ejecucion se haga en tiempo real
+FAST API ayuda a crear el servidor local asi como node y poder interactuar con este, 
+en este caso es el de arriba 
 uvircorn main:app --reload"""
 
 
